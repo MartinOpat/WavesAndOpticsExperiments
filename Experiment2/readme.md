@@ -1,5 +1,5 @@
 # Project 2 - Spectrometry
-## "Report name goes here"
+## "Spectral Analysis and Molar Attenuation Coefficient Determination of Chlorophyll in Spinach Leaves"
 
 In the folder **CodeAndGraphs** a jupyter notebook `CODE.ipynb` used for plotting can be found (Python 3.10.12). All graphs, used and unused are also present.
 
